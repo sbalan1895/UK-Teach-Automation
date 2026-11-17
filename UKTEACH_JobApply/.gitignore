@@ -1,0 +1,7 @@
+target/
+bin/
+*.class
+test-output/
+Screenshots/
+Output_Screenshot/
+.settings/
